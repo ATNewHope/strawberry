@@ -14,13 +14,14 @@
 # Jonas Kvinge <jonas@jkvinge.net>, 2019. #zanata
 # He Chenlan <210hcl@gmail.com>, 2021. #zanata
 # Vax Holmes <mohistman@gmail.com>, 2021. #zanata
+# ATNewHope <ATNewHope@outlook.com>, 2022
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
 "PO-Revision-Date: 2021-06-10 10:56-0400\n"
-"Last-Translator: Vax Holmes <mohistman@gmail.com>\n"
+"Last-Translator: ATNewHope <ATNewHope@outlook.com>\n"
 "Language-Team: Chinese (China)\n"
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
